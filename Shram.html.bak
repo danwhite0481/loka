@@ -1,0 +1,87 @@
+<html>
+	<head>
+	</head>
+	    
+	<body>
+	
+		
+		<table bgcolor="#a300f5" align="center" width="100%">                                >
+			<tr>
+			     <td align="center" valign="middle">
+					<img src="img/logo.png" width="300"> 
+			     </td>
+			</tr>
+		</table>
+		
+		<h1 align="center">шрам</h1>
+		
+		<p><strong> навигация</strong></p>
+		<p>
+		<a href="#family">семья</a></dr>
+		<a href="#feature">характер</a></dr>
+		<a href="#video">видео</a>
+		</p>
+		<img src="C:\Users\cyber\Desktop\Новая папка\img\shram1.jpg" width="300" height="200">
+		
+		<p align="justify">Шрам (также известен как Аскари или Така) — младший брат Муфасы, дядя Симбы. 
+		Является главным антагонистом анимационного фильма «Король Лев» и второго 
+		сезона анимационного сериала «Хранитель Лев».
+		</p>
+		<p>
+		</strong></i></u>
+		он также очень храбрый
+		</strong></i></u>
+		</p>
+		
+		<h2 align="center">Характеристика</h2>
+		
+
+		
+		<table bgcolor="yellow" border="10px" cellspacing="0" width="300" height="200">
+		
+			<tr>
+				<td>
+					тип
+				</td>
+				<td>
+					тип
+				</td>
+			</tr>		
+			<tr>
+				<td>
+					пол
+				</td>
+				<td>
+				    мужской
+				</td>
+			</tr>		
+			<tr>
+				<td>
+					Характер
+				</td>
+				<td>
+				    упертый
+				</td>
+			</tr>		
+			<tr>
+				<td>
+					...
+				</td>
+				<td>
+				    ...
+				</td>
+			</tr>
+		</table>
+		 
+		<table bgcolor="#a300f5" align="center" width="100%" height="80">                                >
+			<tr>
+			     <td align="center" valign="middle">
+					Все материалы взяты с сайта ВИКИПЕДИИ <a href="https://ru.wikipedia.org/">! МОЖЕТЕ ПРОВЕРИТЬ САЙТ ДЕЛАЛ ЮНЫЙ ПРАГРФМИСТ</a>
+			     </td>
+			     <td align="center" valign="middle">
+					Kiber One!
+			     </td>
+			</tr>
+		</table>
+	</body>
+</html>
